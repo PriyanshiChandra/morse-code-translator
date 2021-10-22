@@ -1,3 +1,3 @@
 # morse-code-translator
 
-Pythin programme to translate morse code into english and vice versa
+Python programme to translate morse code into english and vice versa
